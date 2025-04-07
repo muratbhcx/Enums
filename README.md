@@ -1,1 +1,0 @@
-Kullanıcın girdiği güne göre çalışma saatlerini gösteren program.
